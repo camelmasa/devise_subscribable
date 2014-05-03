@@ -1,0 +1,4 @@
+en:
+  devise:
+    subscribes:
+      unsubscribe: 'Unsubscribed email.'
